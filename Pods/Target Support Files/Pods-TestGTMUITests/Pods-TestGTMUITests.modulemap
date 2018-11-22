@@ -1,0 +1,6 @@
+framework module Pods_TestGTMUITests {
+  umbrella header "Pods-TestGTMUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
